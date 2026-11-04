@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF8C00,100:9B5DE5&height=220&section=header&text=✩%20𝓕%20𝓔%20𝓝%20𝓘%20𝓧%20✩&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=👑%20Game%20Modding%20•%20Reverse%20Engineering%20•%20Virtual%20Systems&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF8C00,100:9B5DE5&height=220&section=header&text=✦%20MIKU%20•%20FENIX%20✦&fontSize=38&fontAlignY=38&fontColor=ffffff&desc=Game%20Modding%20•%20Reverse%20Engineering%20•%20Virtual%20Systems&descAlignY=62&descAlign=50" width="100%"/>
 </div>
+
+<h1 align="center">✩ 𝓜 𝓘 𝓚 𝓤 ✩</h1>
 
 <p align="center">
   <a href="https://github.com/MonkeyDLuffy-Nika">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=650&height=100&lines=%E2%9C%A9+%F0%9D%93%95+%F0%9D%93%94+%F0%9D%93%9D+%F0%9D%93%98+%F0%9D%93%A7+%E2%9C%A9+%F0%9F%8E%AE;Discord%3A+username999gl+%E2%9A%A1;Game+Modder+%26+ARM+Binary+Reverser+%F0%9F%92%BB;ComputerCraft+OS+%26+Virtual+Systems+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=%E2%9C%A9+Game+Modder+%26+ARM+Binary+Reverser+%F0%9F%8E%AE;ComputerCraft+OS+%26+Virtual+Systems+%E2%9A%A1;Discord%3A+username999gl+%F0%9F%92%AC;Python+%2F+Lua+%2F+JavaScript+%2F+C%2B%2B+%F0%9F%92%BB;Pushing+limits+%26+breaking+boundaries+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +24,7 @@
 ### ⚡ Обо мне / About Me
 
 ```yaml
-alias: "✩ 𝓕 𝓔 𝓝 𝓘 𝓧 ✩"
+alias: "✩ 𝓜 𝓘 𝓚 𝓤 ✩ / ✩ 𝓕 𝓔 𝓝 𝓘 𝓧 ✩"
 username: "MonkeyDLuffy-Nika"
 discord: "username999gl"
 tagline: "⚡ 𝓩. ~ 𝓩. ~ 𝓩. 🐍 🩵 >ω<"
@@ -116,12 +118,12 @@ status: "Exploring internals, reverse engineering & pushing limits 🚀"
 ### 📊 Статистика активности / GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonkeyDLuffy-Nika&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=FFD700&icon_color=FF8C00&text_color=e0e0e0&bg_color=0d1117&border_color=FFD700" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyDLuffy-Nika&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=FFD700&text_color=e0e0e0&bg_color=0d1117&border_color=9B5DE5" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MonkeyDLuffy-Nika&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=FFD700&icon_color=FF8C00&text_color=e0e0e0&bg_color=0d1117&border_color=FFD700" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MonkeyDLuffy-Nika&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=FFD700&text_color=e0e0e0&bg_color=0d1117&border_color=9B5DE5" height="175" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeyDLuffy-Nika&theme=tokyonight&hide_border=false&border_radius=10&background=0d1117&border=FFD700&stroke=FFD700&ring=FF8C00&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MonkeyDLuffy-Nika&theme=tokyonight&hide_border=false&border_radius=10&background=0d1117&border=FFD700&stroke=FFD700&ring=FF8C00&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
 </p>
 
 <div align="center">

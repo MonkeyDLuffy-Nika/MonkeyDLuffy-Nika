@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF8C00,100:9B5DE5&height=220&section=header&text=%E0%BD%92%20%E0%BE%B2%20%20%E2%9C%A7%20%20%F0%9D%93%95%20%F0%9D%93%94%20%F0%9D%93%9D%20%F0%9D%93%98%20%F0%9D%93%A7%20%20%E2%9C%A7%20%20%E0%BE%B1%20%E0%BD%93&fontSize=32&fontAlignY=38&fontColor=ffffff&desc=Game%20Modding%20•%20Reverse%20Engineering%20•%20Virtual%20Systems&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
-<h1 align="center">꧁ ༻  ✬  𝓕 𝓔 𝓝 𝓘 𝓧  ✬  ༺ ꧂</h1>
+<h1 align="center">  𝓕 𝓔 𝓝 𝓘 𝓧  </h1>
 
 <p align="center">
   <a href="https://github.com/MonkeyDLuffy-Nika">

@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/MonkeyDLuffy-Nika">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Fenix+%E2%80%A2+Game+Modder+%26+Reverser+%F0%9F%8E%AE;ComputerCraft+OS+%26+Virtual+Systems+%E2%9A%A1;Discord%3A+username999gl+%F0%9F%92%AC;Python+%2F+Lua+%2F+JavaScript+%2F+C%2B%2B+%F0%9F%92%BB;Pushing+limits+%26+breaking+boundaries+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Fenix+%E2%80%A2+Game+Modder+%26+Reverser+%F0%9F%8E%AE;Witcher+3+%26+Planet+Crafter+Mods+%F0%9F%9A%80;Discord+Automation+%26+Vencord+Plugins+%E2%9A%A1;ComputerCraft+OS+%26+Virtual+Systems+%F0%9F%92%BB;Discord%3A+username999gl+%F0%9F%92%AC;Pushing+limits+%26+breaking+boundaries+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,8 +29,9 @@ username: "MonkeyDLuffy-Nika"
 discord: "username999gl"
 tagline: "⚡ 𝓩. ~ 𝓩. ~ 𝓩. 🐍 🩵 >ω<"
 focus:
-  - "Game Modding & Binary Patching (ARM .so, Construct Event Trees)"
-  - "Save File Cryptography (AES-256) & Desktop Toolkits"
+  - "Game Modding & Binary Patching (ARM .so, Construct Event Trees, BepInEx)"
+  - "In-Game Overhauls & Cheat Panels (The Witcher 3, The Planet Crafter)"
+  - "Discord Client Modding & Automation (Vencord Plugins, Interactions API)"
   - "ComputerCraft: Tweaked Ecosystems & Custom Virtual OS"
 status: "Exploring internals, reverse engineering & pushing limits 🚀"
 ```
@@ -44,28 +45,21 @@ status: "Exploring internals, reverse engineering & pushing limits 🚀"
 #### Языки программирования
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
 #### Моддинг, Реверс-инжиниринг и Системы
 <p align="center">
   <img src="https://img.shields.io/badge/Reverse_Engineering-Binary_Patching-FFD700?style=for-the-badge&logo=target&logoColor=black" alt="Reverse Engineering" />
-  <img src="https://img.shields.io/badge/ARM-Native_Libraries-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
-  <img src="https://img.shields.io/badge/AES--256-Crypto_&_Save_Editing-9B5DE5?style=for-the-badge&logo=lock&logoColor=white" alt="Crypto" />
+  <img src="https://img.shields.io/badge/BepInEx-Unity_Mods-blue?style=for-the-badge" alt="BepInEx" />
+  <img src="https://img.shields.io/badge/WitcherScript-Game_Engines-CD7F32?style=for-the-badge" alt="WitcherScript" />
+  <img src="https://img.shields.io/badge/Discord_API-Gateway_&_Interactions-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API" />
   <img src="https://img.shields.io/badge/ComputerCraft-Tweaked_OS-FF8C00?style=for-the-badge&logo=minecraft&logoColor=white" alt="ComputerCraft" />
-  <img src="https://img.shields.io/badge/Construct-Event_Tree_Patcher-FF6B6B?style=for-the-badge" alt="Construct" />
-</p>
-
-#### Веб и инструментарий
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 </div>
@@ -77,12 +71,48 @@ status: "Exploring internals, reverse engineering & pushing limits 🚀"
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/MonkeyDLuffy-Nika/witcher3-cheat-panel">🐺 Witcher 3: Cheat Panel & Settings</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next--Gen_4.04+-CD7F32?style=flat-square" />
+        <img src="https://img.shields.io/badge/WitcherScript-Native_Menu-00F0FF?style=flat-square" />
+      </p>
+      <p>Комплексная панель читов в игровом меню (11 категорий): 360° знаки, одновременная активация всех 12 мутаций, залповый веер бомб и метеоритные стрелы.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/MonkeyDLuffy-Nika/planet-crafter-host-panel">🪐 Planet Crafter: Host Panel GUI</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-BepInEx_5-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Harmony-Patches-39C5BB?style=flat-square" />
+      </p>
+      <p>Внутриигровая панель управления хоста: бессмертие, спавн предметов, мгновенный разгон терраформирования и добавление Terra Tokens.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/MonkeyDLuffy-Nika/discord-auto-messenger">⚡ Discord Auto-Messenger Desktop</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Interactions-Slash_API-5865F2?style=flat-square&logo=discord&logoColor=white" />
+      </p>
+      <p>Десктопное приложение для автоматизации сообщений, выполнения нативных слэш-команд ботов (Nekotina, Mudae), Spintax и выбора диалогов.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/MonkeyDLuffy-Nika/vencord-plugins-suite">🌸 Vencord Plugins: Animefy & Smart Text</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-Vencord-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Auto--Injector-Batch-FF69B4?style=flat-square" />
+      </p>
+      <p>Набор плагинов для Vencord: стилизатор текста Animefy и текстовый экспандер Smart Text с готовыми инжекторами в один клик.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/MonkeyDLuffy-Nika/computercraft-mega-suite">🖥️ ComputerCraft Mega Suite</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
         <img src="https://img.shields.io/badge/Minecraft-CC:Tweaked-FF8C00?style=flat-square" />
       </p>
-      <p>Полноценная экосистема для ComputerCraft:Tweaked — оконный менеджер Hub OS, 24+ аркадные игры, медиаплееры и панель мониторинга хранилищ AE2.</p>
+      <p>Полноценная экосистема для ComputerCraft:Tweaked — оконный менеджер Hub OS, 24+ аркадные игры, медиаплееры и AE2 мониторинг.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/MonkeyDLuffy-Nika/fallout-shelter-admin-pipboy">📟 Fallout Shelter Pip-Boy Console</a></h3>
@@ -90,25 +120,7 @@ status: "Exploring internals, reverse engineering & pushing limits 🚀"
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/AES--256-Crypto-9B5DE5?style=flat-square" />
       </p>
-      <p>Десктопная панель управления в аутентичном ретро-интерфейсе Pip-Boy 3000 со встроенным AES-256 редактором сохранений убежища.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/MonkeyDLuffy-Nika/zombie-catchers-40zombies-mod">🧟 Zombie Catchers 40-Zombies Mod</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ARM-Binary_Patching-0091BD?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-Reverse_Engineering-3776AB?style=flat-square" />
-      </p>
-      <p>Инструментарий реверс-инжиниринга и патчер бинарных ARM-библиотек (<code>libcocos2dcpp.so</code>) для охоты на 40 зомби одновременно.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/MonkeyDLuffy-Nika/cuphead-mobile-rapidfire-mod">🎯 Cuphead Mobile Rapidfire Mod</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Construct-Engine-FF6B6B?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-Modding-F7DF1E?style=flat-square" />
-      </p>
-      <p>Патчер деревьев событий и комплексный инструментарий модификации движка Construct для мобильной версии Cuphead.</p>
+      <p>Десктопная панель управления в аутентичном интерфейсе Pip-Boy 3000 со встроенным AES-256 редактором сохранений убежища.</p>
     </td>
   </tr>
 </table>

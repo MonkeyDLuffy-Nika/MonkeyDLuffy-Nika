@@ -11,6 +11,9 @@
 </p>
 
 <p align="center">
+  <a href="https://monkeydluffy-nika.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Celestial_Bio-Live_Website-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Website" />
+  </a>
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-username999gl-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
@@ -27,6 +30,7 @@
 name: "Fenix"
 username: "MonkeyDLuffy-Nika"
 discord: "username999gl"
+website: "https://monkeydluffy-nika.github.io"
 tagline: "⚡ 𝓩. ~ 𝓩. ~ 𝓩. 🐍 🩵 >ω<"
 focus:
   - "Game Modding & Binary Patching (ARM .so, Construct Event Trees, BepInEx)"
